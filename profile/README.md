@@ -5,4 +5,4 @@
 </p>
 -->
 
-![Alt](https://repobeats.axiom.co/api/embed/477965761e00d02de89f1e6ea2d46c328ba515a7.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/3edc8d3fea97c83ff42e3ea8876b7bdadc335e53.svg "Repobeats analytics image")
